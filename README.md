@@ -1,6 +1,6 @@
 ### Hi, I am Anna 👋
 
-📚 I'm currently studying software engineering at Metropolia University.
+📚 I'm currently studying software engineering at Metropolia University, in Finland.
 
 🌱 I’m currently learning more about Web technologies and Game Development.
 
