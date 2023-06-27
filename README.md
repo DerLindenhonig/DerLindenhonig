@@ -1,8 +1,11 @@
 ### Hi, I am Anna 👋
 
-📚 I'm currently studying software engineering at Metropolia University.\n
+📚 I'm currently studying software engineering at Metropolia University.
+
 🌱 I’m currently learning more about Web technologies and Game Development.
+
 ✨ I'm interested in Web & Software Developing, Game Developing, and Game Designing.
+
 📫 E-mail: supercverh@gmail.com
 
 <!--
