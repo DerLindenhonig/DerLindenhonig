@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning more about Web technologies and Game Development.
 
-✨ I'm interested in Web & Software Developing, Game Developing, and Game Designing.
+✨ I'm interested in Web & Software Developing, Game Developing, and Game Design.
 
 📫 E-mail: supercverh@gmail.com
 
