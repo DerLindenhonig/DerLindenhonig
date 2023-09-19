@@ -8,7 +8,9 @@
 
 ⚡ I'm motivated to discover, learn, and improve my skills.
 
-📫 E-mail: supercverh@gmail.com
+📫 E-mail: Anna.Raevskaia@metropolia.fi | supercverh@gmail.com
+
+🎨 ArtStation: https://www.artstation.com/annarae
 
 <!--
 **DerLindenhonig/DerLindenhonig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
